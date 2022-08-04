@@ -1,0 +1,23 @@
+{
+  "name": "09-challenge-readme-gen",
+  "version": "1.0.0",
+  "description": "## Description Generate a README file using a command-line application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlcoles/09-Challenge-Readme-Gen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tlcoles/09-Challenge-Readme-Gen/issues"
+  },
+  "homepage": "https://github.com/tlcoles/09-Challenge-Readme-Gen#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
